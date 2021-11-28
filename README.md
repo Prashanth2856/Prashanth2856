@@ -10,10 +10,11 @@
 - 🔭 I’m currently working on **Seekho-an e-library app**
 
 - 🌱 I’m currently learning **MERN stack**
+- 👨‍💻 All of my projects are available at https://prashanthdyavanapally.vercel.app/
 
 - 💬 Ask me about **React JS, Express.js, Node.js, MongoDb,JavaScript**
 
-- 📫 How to reach me **prashanthdyavanapally67@gmail.com**
+- 📫 Reach out to me at **prashanthdyavanapally67@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-lZ2uD30myKRtVrqR2uUUX8NU5syvPM6/view?usp=sharing](https://drive.google.com/file/d/1-lZ2uD30myKRtVrqR2uUUX8NU5syvPM6/view?usp=sharing)
 
