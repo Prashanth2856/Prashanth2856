@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **MERN stack**
 - 👨‍💻 All of my projects are available at https://prashanthdyavanapally.vercel.app/
 
 - 💬 Ask me about **React JS, Express.js, Node.js, MongoDb,JavaScript**
